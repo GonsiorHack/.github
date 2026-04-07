@@ -1,4 +1,4 @@
-# Gonsior Hack
+# Gonsior
 **Krakowski kolektyw technologiczny: UJ × AGH × PK**
 
 Jesteśmy grupą studentów z czołowych krakowskich uczelni, których połączyła pasja do tworzenia oprogramowania i rozwiązywania problemów. Nasz zespół to fuzja kompetencji z zakresu nowoczesnego web developmentu, systemów backendowych, cyberbezpieczeństwa oraz inżynierii systemowej.
@@ -26,7 +26,7 @@ Swoje umiejętności szlifujemy w warunkach bojowych, biorąc udział w najwięk
 ---
 
 ### 💼 Współpraca i Zlecenia
-Gonsior Team to nie tylko projekty studenckie. **Jesteśmy otwarci na zlecenia komercyjne oraz ambitne wyzwania projektowe.** Chętnie podejmiemy się realizacji:
+Gonsior to nie tylko projekty studenckie. **Jesteśmy otwarci na zlecenia komercyjne oraz ambitne wyzwania projektowe.** Chętnie podejmiemy się realizacji:
 * Skalowalnych aplikacji webowych (Svelte, Spring Boot, Python).
 * Automatyzacji procesów i konfiguracji infrastruktury (DevOps, Linux).
 * Projektowania bezpiecznych systemów i analizy danych.
