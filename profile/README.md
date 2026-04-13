@@ -16,7 +16,7 @@ We aren't senior architects with decades of experience (yet). We are a Polish (g
 
 ### <img src="https://img.shields.io/badge/THE_CREW-4A4A4A?style=for-the-badge&label=%20&labelColor=FF9E3D" alt="THE CREW" />
 
-<img src="https://github.com/callhestia.png" width="25" /> **[Franciszek Dawid](https://github.com/callhestia) — Systems & DevOps Explorer** | `Linux` `Docker` `Bash` `Python`<br>
+<img src="https://github.com/callhestia.png" width="25" /> **[Franciszek](https://github.com/callhestia) — Systems & DevOps Explorer** | `Linux` `Docker` `Bash` `Python`<br>
 The infrastructure guy. I'm moving away from just writing code to figuring out how to deploy, scale, and host it. Currently deep into Linux, containerization (Docker), and automation scripts. My main goal right now is mastering cloud environments and preparing for Kubernetes. If it involves setting up servers, writing deployment pipelines, or breaking environments just to figure out how to fix them, I'm in. Also contributing to open-source (Tauri, Ladybird) on the side.
 
 <img src="https://github.com/GaskaPiotr.png" width="25" /> **[Piotr](https://github.com/GaskaPiotr) — Backend Architecture** | `Java` `Spring Boot` `PostgreSQL`<br>
