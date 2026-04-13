@@ -4,7 +4,7 @@
   </a>
   <br/><br/>
   <h1>G O N S I O R</h1>
-  <p><b>A collective of IT students from Kraków <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">  building things from scratch.</b></p>
+  <p><b>A collective of IT students from Kraków  <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">   building things from scratch.</b></p>
   <p><i>Jagiellonian University × Politechnika Krakowska</i> </p>
   <br/>
 </div>
@@ -66,5 +66,5 @@ Whether you are just starting out and want to build your first real app, or you 
 <p>
   <a href="mailto:dawidfranciszek914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_Us-4A4A4A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF9E3D" alt="Email" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-4A4A4A?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF9E3D" alt="Discord" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-4A4A4A?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF9E3D" alt="Website" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-4A4A4A?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF9E3D" alt="Our Website" /></a>
 </p>
