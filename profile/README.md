@@ -1,11 +1,12 @@
 <div align="center">
-  <a href="https://github.com/GonsiorHack" target="_blank">
-    <img src="https://github.com/GonsiorHack.png" alt="Gonsior Logo" width="140" />
-  </a>
-  <br/><br/>
   <h1>G O N S I O R</h1>
-  <p><b>A collective of IT students from Kraków  <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">   building things from scratch.</b></p>
+  <p><b>A collective of IT students from Kraków   <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">
+    <br> Building things from scratch.</b></p>
   <p><i>Jagiellonian University × Politechnika Krakowska</i> </p>
+  <br/><br/>
+   <a href="https://github.com/GonsiorHack" target="_blank">
+    <img src="https://github.com/GonsiorHack.png" alt="Gonsior Logo" width="444" />
+  </a>
   <br/>
 </div>
 
