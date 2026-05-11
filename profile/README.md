@@ -30,9 +30,9 @@ The guy... that speaks languages? Yeah, plenty of them actually: Polish, English
 ### <img src="https://img.shields.io/badge/WHAT_WE_DO-4A4A4A?style=for-the-badge&label=%20&labelColor=FF9E3D" alt="WHAT WE DO" />
 
 Instead of just doing university homework, we try to test our skills where it matters:
-* **HackYeah 2025** — On the biggest on-site hackaton in Europe we built [Reign of Abaddon](https://github.com/callhestia/Reign-of-Abaddon.git), a custom card-based Dungeon Crawler in Godot
-* **Kościuszkon 2026** — *Currently getting ready.*
-* **HackYeah 2026** — *Loding...*
+* **HackYeah 2025** — On the biggest on-site hackathon in Europe we built [Reign of Abaddon](https://github.com/callhestia/Reign-of-Abaddon.git), a custom card-based Dungeon Crawler in Godot
+* **Kościuszkon 2026** — [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git) - a chess-themed educational platform teaching cybersecurity fundamentals. Built and deployed in 24 hours, this scalable project is currently being refined and expanded
+* **HackYeah 2026** — *Loading...*
 
 ---
 
