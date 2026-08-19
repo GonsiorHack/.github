@@ -16,7 +16,7 @@ We aren't senior architects with decades of experience (yet). We are a Polish (g
 
 ### <img src="https://img.shields.io/badge/THE_CREW-4A4A4A?style=for-the-badge&label=%20&labelColor=FF9E3D" alt="THE CREW" />
 
-<img src="https://github.com/callhestia.png" width="25" /> **[Franciszek](https://github.com/callhestia) — Systems & DevOps Explorer** | `Linux` `Docker` `Bash` `Python`<br>
+<img src="https://github.com/sh3kda.png" width="25" /> **[Franciszek](https://github.com/sh3kda) — Systems & DevOps Explorer** | `Linux` `Docker` `Bash` `Python`<br>
 The infrastructure guy. I'm moving away from just writing code to figuring out how to deploy, scale, and host it. Currently deep into Linux, containerization (Docker), and automation scripts. My main goal right now is mastering cloud environments and preparing for Kubernetes. If it involves setting up servers, writing deployment pipelines, or breaking environments just to figure out how to fix them, I'm in. Also contributing to open-source (Tauri, Ladybird) on the side.
 
 <img src="https://github.com/GaskaPiotr.png" width="25" /> **[Piotr](https://github.com/GaskaPiotr) — Backend Architecture** | `Java` `Spring Boot` `PostgreSQL`<br>
@@ -30,7 +30,7 @@ The guy... that speaks languages? Yeah, plenty of them actually: Polish, English
 ### <img src="https://img.shields.io/badge/WHAT_WE_DO-4A4A4A?style=for-the-badge&label=%20&labelColor=FF9E3D" alt="WHAT WE DO" />
 
 Instead of just doing university homework, we try to test our skills where it matters:
-* **HackYeah 2025** — On the biggest on-site hackathon in Europe we built [Reign of Abaddon](https://github.com/callhestia/Reign-of-Abaddon.git), a custom card-based Dungeon Crawler in Godot
+* **HackYeah 2025** — On the biggest on-site hackathon in Europe we built [Reign of Abaddon](https://github.com/sh3kda/Reign-of-Abaddon.git), a custom card-based Dungeon Crawler in Godot
 * **Kościuszkon 2026** — [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git) - a chess-themed educational platform teaching cybersecurity fundamentals. Built and deployed in 24 hours, this scalable project is currently being refined and expanded
 * **HackYeah 2026** — *Loading...*
 
