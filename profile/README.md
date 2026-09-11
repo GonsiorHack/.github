@@ -14,10 +14,8 @@ We aren't senior architects with decades of experience (yet). We are a Polish (g
 
 ---
 
-### <img src="https://img.shields.io/badge/THE_CREW-4A4A4A?style=for-the-badge&label=%20&labelColor=FF9E3D" alt="THE CREW" />
-
-<img src="https://github.com/sh3kda.png" width="25" /> **[Franciszek](https://github.com/sh3kda) — Systems & DevOps Explorer** | `Linux` `Docker` `Bash` `Python`<br>
-The infrastructure guy. I'm moving away from just writing code to figuring out how to deploy, scale, and host it. Currently deep into Linux, containerization (Docker), and automation scripts. My main goal right now is mastering cloud environments and preparing for Kubernetes. If it involves setting up servers, writing deployment pipelines, or breaking environments just to figure out how to fix them, I'm in. Also contributing to open-source (Tauri, Ladybird) on the side.
+<img src="https://github.com/sh3kda.png" width="25" /> **[Franciszek](https://github.com/sh3kda) — Data Engineering & Core Logic** | `C++` `SQL` `Linux`<br>
+The systems and data guy. I focus on what happens deep under the hood—far below the standard web layer. I spend my time building native C++ engines (check out Zora), writing Python data pipelines, and structuring relational databases. When we hit a hackathon, I’m the one designing the underlying data flow and state logic so the whole architecture actually holds together. If it involves complex algorithms, writing efficient SQL queries, or squeezing raw performance out of a Linux environment, I'm in. Also contributing to the Ladybird browser engine on the side.
 
 <img src="https://github.com/GaskaPiotr.png" width="25" /> **[Piotr](https://github.com/GaskaPiotr) — Backend Architecture** | `Java` `Spring Boot` `PostgreSQL`<br>
 The backend guy. Mostly wrangling Java and figuring out how to build REST APIs that don't instantly crash the moment a real user tries to interact with them. I spend my time making sense of server-side chaos, connecting relational databases, and ensuring data flows smoothly. Currently, I'm deep into writing my engineering thesis, where I'm benchmarking and comparing the speed and overall performance of different server-side solutions. Basically, trying to scientifically prove which architecture handles the heat best. If you need a solid Spring Boot foundation or someone to obsess over response times, I'm your guy.
