@@ -2,7 +2,7 @@
   <h1>G O N S I O R</h1>
   <p><b>A collective of IT students from Kraków   <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">
     <br> Building things from scratch.</b></p>
-  <p><i>Jagiellonian University × Politechnika Krakowska</i> </p>
+  <p><i>Uniwersytet Jagielloński × Politechnika Krakowska</i> </p>
   <br/><br/>
    <a href="https://github.com/GonsiorHack" target="_blank">
     <img src="https://github.com/GonsiorHack.png" alt="Gonsior Logo" width="444" />
@@ -14,14 +14,15 @@ We aren't senior architects with decades of experience (yet). We are a Polish (g
 
 ---
 
-<img src="https://github.com/sh3kda.png" width="25" /> **[Franciszek](https://github.com/sh3kda) — Data Engineering & Core Logic** | `C++` `SQL` `Linux`<br>
-The systems and data guy. I focus on what happens deep under the hood—far below the standard web layer. I spend my time building native C++ engines (check out Zora), writing Python data pipelines, and structuring relational databases. When we hit a hackathon, I’m the one designing the underlying data flow and state logic so the whole architecture actually holds together. If it involves complex algorithms, writing efficient SQL queries, or squeezing raw performance out of a Linux environment, I'm in. Also contributing to the Ladybird browser engine on the side.
+<img src="https://github.com/sh3kda.png" width="25" /> **[Franciszek](https://github.com/sh3kda) — Fullstack Dev** | `PHP` `Svelte/Vue` `TypeScript`<br>
+The product and fullstack architect. I bridge intuitive, accessible interfaces with resilient server-side architecture. I focus on building end-to-end web apps—coupling robust PHP backends and clean REST APIs with reactive frontends in Svelte, Vue, and TypeScript. Whether creating design systems from scratch or structuring complex client-server state logic under pressure, I make sure the interface feels effortless to the user and the entire stack scales cleanly from day one.
 
 <img src="https://github.com/GaskaPiotr.png" width="25" /> **[Piotr](https://github.com/GaskaPiotr) — Backend Architecture** | `Java` `Spring Boot` `PostgreSQL`<br>
 The backend guy. Mostly wrangling Java and figuring out how to build REST APIs that don't instantly crash the moment a real user tries to interact with them. I spend my time making sense of server-side chaos, connecting relational databases, and ensuring data flows smoothly. Currently, I'm deep into writing my engineering thesis, where I'm benchmarking and comparing the speed and overall performance of different server-side solutions. Basically, trying to scientifically prove which architecture handles the heat best. If you need a solid Spring Boot foundation or someone to obsess over response times, I'm your guy.
 
-<img src="https://github.com/Antoine052.png" width="25" /> **[Antoni](https://github.com/Antoine052) — NLP & Data Explorer** | `Python` `Pandas` `NLP`<br>
-The guy... that speaks languages? Yeah, plenty of them actually: Polish, English, French, and Arabic. I decided to mix my Arabic studies with programming, which naturally dragged me straight into the rabbit hole of Natural Language Processing. Since I spend half my life analyzing how human languages work, I figured I might as well teach machines to do the same. I spend most of my coding time writing Python scripts and trying to extract meaningful, structured data from giant, chaotic walls of text. Basically, I take unstructured linguistic chaos and turn it into something our backend guys can actually use.
+<img src="https://github.com/Antoine052.png" width="25" /> **[Antoni](https://github.com/Antoine052) — Spatial & Language Data Analyst** | `Python` `Pandas` `GIS/OSM`<br>
+
+The guy who speaks human languages and reads map layers like native code. Alongside juggling Polish, English, French, and Arabic, I bring a data analyst's lens to both spatial graphs and linguistic data. I spend my time writing Python pipelines that wrangle messy OpenStreetMap nodes, terrain coordinates, and unstructured text, turning real-world chaos into clean, actionable datasets. Whether it's mapping urban accessibility barriers, crunching spatial metrics, or parsing polyglot datasets, I make sure the coordinates, words, and numbers actually tell a coherent story our models and backend can build on.
 
 ---
 
@@ -30,7 +31,7 @@ The guy... that speaks languages? Yeah, plenty of them actually: Polish, English
 Instead of just doing university homework, we try to test our skills where it matters:
 * **HackYeah 2025** — On the biggest on-site hackathon in Europe we built [Reign of Abaddon](https://github.com/sh3kda/Reign-of-Abaddon.git), a custom card-based Dungeon Crawler in Godot
 * **Kościuszkon 2026** — [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git) - a chess-themed educational platform teaching cybersecurity fundamentals. Built and deployed in 24 hours, this scalable project is currently being refined and expanded
-* **HackYeah 2026** — *Loading...*
+* **HackYeah 2026** — [CzyPrzejadę](https://github.com/GonsiorHack/HY2026) — an AI-powered urban accessibility engine navigating pedestrians around architectural barriers via Computer Vision and spatial dual-routing. Developed in a 24-hour sprint, scored well above the competition average, and currently transitioning into an independent startup.
 
 ---
 
@@ -59,11 +60,3 @@ We are dedicating a lot of our time to finding new people who want to get their 
 Whether you are just starting out and want to build your first real app, or you are looking for a team to hit the next hackathon with — drop us a message. We share knowledge, review each other's code, and build things we can all proudly put on our resumes.
 
 ---
-
-### <img src="https://img.shields.io/badge/GET_IN_TOUCH-4A4A4A?style=for-the-badge&label=%20&labelColor=FF9E3D" alt="GET IN TOUCH" />
-
-<p>
-  <a href="mailto:dawidfranciszek914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_Us-4A4A4A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF9E3D" alt="Email" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-4A4A4A?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF9E3D" alt="Discord" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-4A4A4A?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF9E3D" alt="Our Website" /></a>
-</p>
