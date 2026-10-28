@@ -13,25 +13,27 @@
 We aren't senior architects with decades of experience (yet). We are a Polish (gurom) group of students who decided to stop watching endless tutorials and start writing actual code. We build stuff out of curiosity, go to hackathons, break things, then we try to fix them and learn in the process of doing so how software engineering really works in the wild.
 
 ---
-
-<img src="https://github.com/sh3kda.png" width="25" /> **[Franciszek](https://github.com/sh3kda) — Fullstack Dev** | `PHP` `Svelte/Vue` `TypeScript`<br>
-The product and fullstack architect. I bridge intuitive, accessible interfaces with resilient server-side architecture. I focus on building end-to-end web apps—coupling robust PHP backends and clean REST APIs with reactive frontends in Svelte, Vue, and TypeScript. Whether creating design systems from scratch or structuring complex client-server state logic under pressure, I make sure the interface feels effortless to the user and the entire stack scales cleanly from day one.
+<img src="https://github.com/sh3kda.png" width="25" /> **[Franciszek](https://github.com/sh3kda) — Systems & Cross-Platform Engineer** | `C++` `Linux` `Flutter` `Svelte/TS`<br>
+The systems guy. My real comfort zone is modern C++, Linux environments, and low-level internals, basically understanding what's actually happening under the OS hood. But when our team builds a product or sprint-runs a hackathon, I'm the one who bridges the raw backend into a working mobile or web app. I build fast, crash-resilient clients that won't desync. If you need fast C++ code, Linux troubleshooting, or an end-to-end client that just works, I'm your guy.
 
 <img src="https://github.com/GaskaPiotr.png" width="25" /> **[Piotr](https://github.com/GaskaPiotr) — Backend Architecture** | `Java` `Spring Boot` `PostgreSQL`<br>
 The backend guy. Mostly wrangling Java and figuring out how to build REST APIs that don't instantly crash the moment a real user tries to interact with them. I spend my time making sense of server-side chaos, connecting relational databases, and ensuring data flows smoothly. Currently, I'm deep into writing my engineering thesis, where I'm benchmarking and comparing the speed and overall performance of different server-side solutions. Basically, trying to scientifically prove which architecture handles the heat best. If you need a solid Spring Boot foundation or someone to obsess over response times, I'm your guy.
 
 <img src="https://github.com/Antoine052.png" width="25" /> **[Antoni](https://github.com/Antoine052) — Spatial & Language Data Analyst** | `Python` `Pandas` `GIS/OSM`<br>
 
-The guy who speaks human languages and reads map layers like native code. Alongside juggling Polish, English, French, and Arabic, I bring a data analyst's lens to both spatial graphs and linguistic data. I spend my time writing Python pipelines that wrangle messy OpenStreetMap nodes, terrain coordinates, and unstructured text, turning real-world chaos into clean, actionable datasets. Whether it's mapping urban accessibility barriers, crunching spatial metrics, or parsing polyglot datasets, I make sure the coordinates, words, and numbers actually tell a coherent story our models and backend can build on.
+The data guy. I speak human languages and reads map layers like native code. Alongside juggling Polish, English, French, and Arabic, I bring a data analyst's lens to both spatial graphs and linguistic data. I spend my time writing Python pipelines that wrangle messy OpenStreetMap nodes, terrain coordinates, and unstructured text, turning real-world chaos into clean, actionable datasets. Whether it's mapping urban accessibility barriers, crunching spatial metrics, or parsing polyglot datasets, I make sure the coordinates, words, and numbers actually tell a coherent story our models and backend can build on. If you need someone to tame messy geospatial data, build solid Python pipelines, or translate raw GIS chaos into clean logic, I'm your guy.
 
 ---
 
 ### <img src="https://img.shields.io/badge/WHAT_WE_DO-4A4A4A?style=for-the-badge&label=%20&labelColor=FF9E3D" alt="WHAT WE DO" />
 
 Instead of just doing university homework, we try to test our skills where it matters:
-* **HackYeah 2025** — On the biggest on-site hackathon in Europe we built [Reign of Abaddon](https://github.com/sh3kda/Reign-of-Abaddon.git), a custom card-based Dungeon Crawler in Godot
-* **Kościuszkon 2026** — [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git) - a chess-themed educational platform teaching cybersecurity fundamentals. Built and deployed in 24 hours, this scalable project is currently being refined and expanded
-* **HackYeah 2026** — [CzyPrzejadę](https://github.com/GonsiorHack/HY2026) — an AI-powered urban accessibility engine navigating pedestrians around architectural barriers via Computer Vision and spatial dual-routing. Developed in a 24-hour sprint, scored well above the competition average, and currently transitioning into an independent startup.
+
+- **HackYeah 2026** — **[CzyPrzejadę](https://github.com/GonsiorHack/HY2026)** *(Startup in Progress)* — Our proudest engineering work to date. Originally built during a hackathon where it scored well above the competition average, we are now actively developing it into an independent startup. It is an end-to-end urban accessibility and navigation platform for people with reduced mobility—pairing a cross-platform **Flutter** mobile app (live GPS heading navigation, voice search, place accessibility ratings) with an asynchronous backend, **Computer Vision** obstacle detection, and custom GIS routing (**OpenStreetMap / ORS**) that dynamically routes pedestrians around stairs, high curbs, and damaged sidewalks.
+
+- **Kościuszkon 2026** — **[En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git)** — A chess-themed educational platform teaching cybersecurity fundamentals. Built and deployed in 24 hours, this scalable project is currently being refined and expanded.
+
+- **HackYeah 2025** — **[Reign of Abaddon](https://github.com/sh3kda/Reign-of-Abaddon.git)** — On the biggest on-site hackathon in Europe, we built a custom card-based Dungeon Crawler in Godot.
 
 ---
 
